@@ -33,7 +33,7 @@ The Virtual Keyboard and Mouse using Computer Vision is an AI-based system desig
 
 
 
-##Installation
+## Installation
 **Clone the Repository:**
 ```bash
   git clone https://github.com/SurajThakur10/Virtual-Keyboard-and-Mouse-using-Computer-Vision.git
