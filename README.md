@@ -33,18 +33,18 @@ The Virtual Keyboard and Mouse using Computer Vision is an AI-based system desig
 
 
 
-**Installation**
-- Clone the Repository:
+##Installation##
+**Clone the Repository:**
 ```bash
   git clone https://github.com/SurajThakur10/Virtual-Keyboard-and-Mouse-using-Computer-Vision.git
 ```
 
-- Install Dependencies:
+**Install Dependencies:**
 ```bash
   pip install -r requirements.txt
 ```
 
-- Run the Application:
+**Run the Application:**
 ```bash
   python AiVirtualMouseProject.py
 ```
